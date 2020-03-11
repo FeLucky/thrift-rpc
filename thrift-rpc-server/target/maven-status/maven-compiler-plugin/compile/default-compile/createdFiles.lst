@@ -1,5 +1,0 @@
-server/HelloServiceServer.class
-service/impl/SmartServiceImpl.class
-ServiceServerApplication.class
-service/impl/HelloServiceImpl.class
-server/SmartServiceServer.class
